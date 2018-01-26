@@ -59,7 +59,7 @@ We provide a large set of baseline results and trained models available for down
 Please find installation instructions for Caffe2 and Detectron in [`INSTALL.md`](INSTALL.md).
 
 ## Quick Start: Using Detectron
-
+Install caffe2 : https://caffe2.ai/docs/getting-started.html?platform=ubuntu&configuration=compile
 After installation, please see [`GETTING_STARTED.md`](GETTING_STARTED.md) for brief tutorials covering inference and training with Detectron.
 
 ## Getting Help
